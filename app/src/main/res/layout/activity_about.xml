@@ -101,7 +101,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="8dp"
                         android:gravity="center"
-                        android:text="Sai Mao (Sai Saing Hmine Tun)"
+                        android:text="Venerable Manida"
                         android:textSize="18sp"
                         android:textStyle="bold" />
 
